@@ -32,9 +32,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: Prajin S
+### Name: ABHINAV CS
 
-### Register Number: 212223230151
+### Register Number: 212224040005
 
 ```python
 import torch
